@@ -14,7 +14,7 @@ Kaggle: [https://www.kaggle.com/emrebulbul23](https://www.kaggle.com/emrebulbul2
 
 1. [**Simple Messaging Service with Spring Boot and Stomp**](https://github.com/emrebulbul23/simple-messaging-service)
 
-    **ech Stack**: Java, Spring Boot, Spring Security, STOMP, MongoDB, Docker
+    **Tech Stack**: Java, Spring Boot, Spring Security, STOMP, MongoDB, Docker
 
 2. [**A Fullstack Credit Loan Management App**](https://github.com/emrebulbul23/credit-manager-app-fullstack)
 
