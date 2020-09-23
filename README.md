@@ -8,7 +8,7 @@ LinkedIn: [https://www.linkedin.com/in/emrebulbul23](https://www.linkedin.com/in
 
 Kaggle: [https://www.kaggle.com/emrebulbul23](https://www.kaggle.com/emrebulbul23)
 
-StackOverflow: [https://meta.stackoverflow.com/users/8411404/e-bülbül](https://meta.stackoverflow.com/users/8411404/e-bülbül)
+StackOverflow: [https://stackoverflow.com/users/8411404/e-bülbül](https://stackoverflow.com/users/8411404/e-bülbül)
 
 ### Repositories
 
