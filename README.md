@@ -8,6 +8,8 @@ LinkedIn: [https://www.linkedin.com/in/emrebulbul23](https://www.linkedin.com/in
 
 Kaggle: [https://www.kaggle.com/emrebulbul23](https://www.kaggle.com/emrebulbul23)
 
+StackOverflow: [https://meta.stackoverflow.com/users/8411404/e-bülbül](https://meta.stackoverflow.com/users/8411404/e-bülbül)
+
 ### Repositories
 
 1. [**Simple Messaging Service with Spring Boot and Stomp**](https://github.com/emrebulbul23/simple-messaging-service)
