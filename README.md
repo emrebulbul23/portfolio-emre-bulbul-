@@ -22,4 +22,6 @@ Kaggle: [https://www.kaggle.com/emrebulbul23](https://www.kaggle.com/emrebulbul2
 
     **Tech Stack**: Java, Spring Boot, MongoDB, AWS
     
-4. [**Multiagent Real-time A\* (MARTA\*) with Repulsion**](https://github.com/emrebulbul23/Multiagent_Real_Time_A_Star_with_Repulsion)    
+4. [**Multiagent Real-time A\* (MARTA\*) with Repulsion Algorithm**](https://github.com/emrebulbul23/Multiagent_Real_Time_A_Star_with_Repulsion)
+
+5. [**Naive Complex Coloring Algorithm**](https://github.com/emrebulbul23/NaiveComplexColoring)
