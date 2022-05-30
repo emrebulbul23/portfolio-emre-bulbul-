@@ -1,5 +1,7 @@
 # Humble Portfolio of Emre Bulbul
 
+![](https://raw.githubusercontent.com/emrebulbul23/portfolio-emre-bulbul/2193a2910c9509d75728c36663e8ddd75fa99a5f/are-ya-hired-son.jpg)
+
 This page contains repositories of my personal projects, interview tasks and case studies that are assigned to me, programming assignments and projects from my undergrad and grad studies.
 
 GitHub: [https://github.com/emrebulbul23](https://github.com/emrebulbul23)
